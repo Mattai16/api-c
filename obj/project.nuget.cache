@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8VwR/UgFlmohEr0YR5DvjUm5gTV7LgNCeMKJZVBfW6EXC9nuixztREJLVsyOgH1hTOZNwQOTE6C9dx3ACNjumw==",
+  "dgSpecHash": "7Cv0oMqtf5AsrOdG2gknlhSDWN0gEm+jC6qGKDiZErrOHlks6ryk1UpHv02jbm26UWfXO7tbKrXq6Gf3aHaS+w==",
   "success": true,
-  "projectFilePath": "/Users/mateo/Desktop/Repositorios/codigo/tw/api-dotnet/api-dotnet.csproj",
+  "projectFilePath": "/Users/mateo/Desktop/Repositorios/codigo/tw/apidotnet/api-dotnet.csproj",
   "expectedPackageFiles": [
     "/Users/mateo/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/mateo/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

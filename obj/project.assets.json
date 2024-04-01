@@ -2271,11 +2271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mateo/Desktop/Repositorios/codigo/tw/api-dotnet/api-dotnet.csproj",
+      "projectUniqueName": "/Users/mateo/Desktop/Repositorios/codigo/tw/apidotnet/api-dotnet.csproj",
       "projectName": "api-dotnet",
-      "projectPath": "/Users/mateo/Desktop/Repositorios/codigo/tw/api-dotnet/api-dotnet.csproj",
+      "projectPath": "/Users/mateo/Desktop/Repositorios/codigo/tw/apidotnet/api-dotnet.csproj",
       "packagesPath": "/Users/mateo/.nuget/packages/",
-      "outputPath": "/Users/mateo/Desktop/Repositorios/codigo/tw/api-dotnet/obj/",
+      "outputPath": "/Users/mateo/Desktop/Repositorios/codigo/tw/apidotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mateo/.nuget/NuGet/NuGet.Config"
