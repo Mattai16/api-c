@@ -12,5 +12,5 @@ public class PeliculaDTO
 
     public string Poster { get; set;} = "N/A";
 
-    public int[]? Categotias { get; set;}
+    public int[]? Categorias { get; set;}
 } 
